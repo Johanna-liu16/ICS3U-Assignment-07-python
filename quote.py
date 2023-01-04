@@ -32,6 +32,7 @@ def create_frame(words):
 
     return border, lines, border
 
+
 def main():
     # this function uses an array
     words = []
